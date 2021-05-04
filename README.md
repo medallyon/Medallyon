@@ -1,21 +1,17 @@
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://komarev.com/ghpvc/?username=medallyon&label=Profile%20views&color=5addc3&style=flat" alt="medallyon" />
-  <h3>Medallyon // Tilman</h3>
-<div>
+<h3 align="center">Medallyon // Tilman</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medallyon&theme=onedark&no-bg=true&no-frame=true" alt="medallyon" /></a> </p>
+<!-- GitHub Trophies -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medallyon&theme=onedark&no-bg=true&no-frame=true" alt="medallyon" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/medallyonify" target="blank"><img src="https://img.shields.io/twitter/follow/medallyonify?logo=twitter&style=for-the-badge" alt="medallyonify" /></a> </p>
-
-### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/medallyonify" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="medallyonify" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/tilmanraendchen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="tilmanraendchen" height="30" width="40" /></a>
-  <a href="https://discord.gg/esoi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="esoi" height="30" width="40" /></a>
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://twitter.com/medallyonify" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter/medallyonify" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/tilmanraendchen" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/tilmanraendchen" height="30" width="40" /></a>
+  <a href="https://discord.gg/esoi" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord.gg/esoi" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
-<p align="left">
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -38,11 +34,8 @@
   <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a>
 </p>
 
-### Some Stats
-
-<!-- Top Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medallyon&show_icons=true&theme=dark&locale=en&layout=compact" alt="medallyon" /></p>
-<!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medallyon&show_icons=true&theme=dark&locale=en" alt="medallyon" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medallyon&theme=dark" alt="medallyon" /></p>
-
+<h3 align="center">Some Stats</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medallyon&layout=compact&hide_border=true&bg_color=181818&title_color=00b3b3&text_color=efefef"> </a>
+  <a href="https://git.io/streak-stats"> <img alt="GitHub Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=medallyon&hide_border=true&background=181818&ring=00B3B3&dates=00B3B3&currStreakNum=EFEFEF&sideNums=EFEFEF&sideLabels=FA8B00"> </a>
+</p>
