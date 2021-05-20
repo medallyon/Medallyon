@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://twitter.com/medallyonify" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/twitter.svg" alt="twitter/medallyonify" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/tilmanraendchen" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/tilmanraendchen" height="30" width="40" /></a>
-  <a href="https://discord.gg/esoi" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="discord.gg/esoi" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
