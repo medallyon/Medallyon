@@ -40,4 +40,7 @@
   <a href="https://git.io/streak-stats"> <img alt="GitHub Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=medallyon&hide_border=true&background=18181800&ring=00B3B3&dates=00B3B3&currStreakNum=EFEFEF&sideNums=EFEFEF&sideLabels=FA8B00"> </a>
 </p>
 
-![](https://raw.githubusercontent.com/Medallyon/Medallyon/cbc987a46b2a59dea06c0b352294ef337a8cc9fc/github-contribution-grid-snake.svg)
+<h3 align="center">Commit Graph</h3>
+<p align="center">
+  <img align="center" src="https://raw.githubusercontent.com/Medallyon/Medallyon/cbc987a46b2a59dea06c0b352294ef337a8cc9fc/github-contribution-grid-snake.svg" alt="twitter/medallyonify" />
+</p>
