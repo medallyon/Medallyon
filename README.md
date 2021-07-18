@@ -36,7 +36,7 @@
 
 <h3 align="center">Some Stats</h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medallyon&layout=compact&hide_border=true&bg_color=18181800&title_color=00b3b3&text_color=efefef"> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medallyon&layout=compact&hide_border=true&bg_color=18181800&title_color=00b3b3&text_color=efefef&hide=c%2B%2B"> </a>
   <a href="https://git.io/streak-stats"> <img alt="GitHub Streaks" src="http://github-readme-streak-stats.herokuapp.com?user=medallyon&hide_border=true&background=18181800&ring=00B3B3&dates=00B3B3&currStreakNum=EFEFEF&sideNums=EFEFEF&sideLabels=FA8B00"> </a>
 </p>
 
